@@ -37,8 +37,4 @@ This report is a valuable resource for researchers, practitioners, and enthusias
 file:///D:/college/pdf%20folder/Reaseach_DBCNN.pdf --> Research Paper DBCNN
 file:///D:/college/pdf%20folder/MANIQA.pdf -->Reaseach Paper MANIQA
 
-Feel free to explore the repository, and we welcome any feedback or contributions to further enhance the understanding and development of NR-IQA.
 
----
-
-Feel free to customize this description further to better match the specific details and focus of your report.
