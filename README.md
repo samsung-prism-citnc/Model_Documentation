@@ -34,7 +34,7 @@ Welcome to the comprehensive report on No-Reference Image Quality Assessment (NR
 This report is a valuable resource for researchers, practitioners, and enthusiasts in the field of image quality assessment. It provides in-depth knowledge and practical insights into the latest techniques and advancements, paving the way for future research and development.
 
 #### Access the Report:
-file:///D:/college/pdf%20folder/Reaseach_DBCNN.pdf --> Research Paper DBCNN
+file:///D:/college/pdf%20folder/Reaseach_DBCNN.pdf --> Research Paper DBCNN\n<br>
 file:///D:/college/pdf%20folder/MANIQA.pdf -->Reaseach Paper MANIQA
 
 
