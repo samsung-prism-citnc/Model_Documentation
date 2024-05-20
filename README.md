@@ -1,4 +1,3 @@
-Sure! Here's a detailed prompt you can use for the description of your NR-IQA report on GitHub:
 
 ---
 
